@@ -131,7 +131,6 @@ img{
     /*　画面サイズが480pxからはここを読み込む　*/
     body{
         background-color: rgb(173, 216, 148);
-        font-size: 320%;
     }
 
 }
@@ -148,7 +147,6 @@ img{
     /*　画面サイズが768pxから1024pxまではここを読み込む　*/
     body{
         background-color: rgb(255, 153, 0);
-        font-size: 300%;
     }
 }
 @media screen and (min-width:1024px) {
@@ -156,7 +154,6 @@ img{
     body{
         background-color: rgb(32, 32, 32);
         color: rgb(255, 255, 255);
-        font-size: 200%;
     }
     #navi-content{
         max-width: 300px;/*最大幅（調整してください）*/
