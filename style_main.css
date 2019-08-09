@@ -64,7 +64,7 @@ img{
         height: 4.2px;/*線の太さ*/
         width: 35px;/*長さ*/
         border-radius: 3px;
-        background: rgb(255, 255, 255);
+        background: rgb(0, 0, 0);
         display: block;
         content: '';
         cursor: pointer;
